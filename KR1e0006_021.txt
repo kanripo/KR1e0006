@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:12:29.239821
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR1e0006_WYG_021-1a>¶
 欽定四庫全書¶
 　春秋公羊傳注疏卷二十一(起襄公二十五/年盡三十一年)¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　春秋公羊傳注疏卷二十一¶
+#+PROPERTY: JUAN 卷二十一考證
 <pb:KR1e0006_WYG_021-27a>¶
 　春秋公羊傳卷二十一考證¶
 諸侯同盟于重邱注起諸侯欲誅崔杼故詳録之○(臣/)¶
@@ -524,4 +527,3 @@
 　¶
 　¶
 　春秋公羊傳卷二十一考證¶
-

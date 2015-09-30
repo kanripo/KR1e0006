@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 20
+#+DATE: 2015-08-24 22:12:29.213406
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十
 <pb:KR1e0006_WYG_020-1a>¶
 欽定四庫全書¶
 　春秋公羊傳注疏卷二十(起襄公十二年/盡二十四年)¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　春秋公羊傳注疏卷二十¶
+#+PROPERTY: JUAN 卷二十考證
 <pb:KR1e0006_WYG_020-28a>¶
 　春秋公羊傳卷二十考證¶
 莒人伐我東鄙圍台𫝊伐而言圍者取邑之辭也○劉¶
@@ -578,4 +581,3 @@
 　¶
 　¶
 　春秋公羊傳卷二十考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:12:29.257909
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1e0006_WYG_022-1a>¶
 欽定四庫全書¶
 　春秋公羊傳注疏卷二十二(起昭公元年/盡十二年)¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　春秋公羊傳注疏巻二十二¶
+#+PROPERTY: JUAN 卷二十二考證
 <pb:KR1e0006_WYG_022-34a>¶
 　春秋公羊傳卷二十二考證¶
 叔孫豹㑹漷疏知向戌石惡皆與君同名也○石惡監¶
@@ -686,4 +689,3 @@
 　¶
 　¶
 　春秋公羊傳巻二十二考證¶
-

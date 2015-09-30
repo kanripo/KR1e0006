@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 22:12:29.408006
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 考證跋語
 <pb:KR1e0006_WYG_029-1a>¶
 　　侍讀(臣召南/)謹言按公羊疏不知撰人姓名其文¶
 　　與孔穎達春秋正義楊士勛穀梁疏體式稍殊發¶
@@ -60,4 +62,3 @@
 　　正其脫訛其無可證概志其說不敢輕於改移至¶
 　　史傳所引儒先所論有足爲是傳發明者亦節録¶
 　　以備考證云(臣召南/)謹識¶
-

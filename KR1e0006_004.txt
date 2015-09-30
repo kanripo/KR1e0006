@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:12:28.843287
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1e0006_WYG_004-1a>¶
 欽定四庫全書¶
 　春秋公羊傳注疏卷四(起桓公元/年盡六年)¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　春秋公羊傳注疏巻四¶
+#+PROPERTY: JUAN 卷四考證
 <pb:KR1e0006_WYG_004-33a>¶
 　春秋公羊傳卷四考證¶
 三月公㑹鄭伯于垂注桓公㑹皆月者危之也○(臣召/)¶
@@ -668,4 +671,3 @@
 　¶
 　¶
 　春秋公羊傳卷四考證¶
-

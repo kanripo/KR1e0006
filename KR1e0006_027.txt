@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 27
+#+DATE: 2015-08-24 22:12:29.369930
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七
 <pb:KR1e0006_WYG_027-1a>¶
 欽定四庫全書¶
 　春秋公羊傳注疏卷二十七(起哀公元/年盡十年)¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　春秋公羊傳注疏卷二十七¶
+#+PROPERTY: JUAN 卷二十七考證
 <pb:KR1e0006_WYG_027-29a>¶
 　春秋公羊傳卷二十七考證¶
 哀公元年楚子陳侯隨侯許男圍蔡注許男者戍也○¶
@@ -578,4 +581,3 @@
 　¶
 　¶
 　春秋公羊傳卷二十七考證¶
-

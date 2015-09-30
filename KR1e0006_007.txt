@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:12:28.917722
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1e0006_WYG_007-1a>¶
 欽定四庫全書¶
 　春秋公羊傳注疏卷七(起荘公八年/盡十七年)¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　春秋公羊傳注疏卷七¶
+#+PROPERTY: JUAN 卷七考證
 <pb:KR1e0006_WYG_007-33a>¶
 　春秋公羊傳卷七考證¶
 師次于郎以俟陳人蔡人傳託不得已也注託待二國¶
@@ -668,4 +671,3 @@
 　¶
 　¶
 　春秋公羊傳巻七考證¶
-

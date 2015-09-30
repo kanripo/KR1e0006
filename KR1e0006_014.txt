@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:12:29.085091
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1e0006_WYG_014-1a>¶
 欽定四庫全書¶
 　春秋公羊傳注疏卷十四(起文公十年/盡十八年)¶
@@ -542,6 +544,7 @@
 　¶
 　¶
 　春秋公羊傳注疏巻十四¶
+#+PROPERTY: JUAN 卷十四考證
 <pb:KR1e0006_WYG_014-31a>¶
 　春秋公羊傳卷十四考證¶
 盛伯來奔○盛伯左氏穀梁經作郕伯¶
@@ -614,4 +617,3 @@
 　¶
 　¶
 　春秋公羊傳卷十四考證¶
-

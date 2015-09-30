@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:12:28.822641
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1e0006_WYG_003-1a>¶
 欽定四庫全書¶
 　春秋公羊傳注疏卷三(起隱公五年/盡十一年)¶
@@ -560,6 +562,7 @@
 　¶
 　¶
 　春秋公羊傳注疏卷三¶
+#+PROPERTY: JUAN 卷三考證
 <pb:KR1e0006_WYG_003-32a>¶
 　春秋公羊傳卷三考證¶
 公觀魚于棠傳登來之也注登來讀言得來○登字下¶
@@ -650,4 +653,3 @@
 　¶
 　¶
 　春秋公羊傳卷三考證¶
-

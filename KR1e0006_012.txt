@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:12:29.028703
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1e0006_WYG_012-1a>¶
 欽定四庫全書¶
 　春秋公羊傳注疏卷十二(起僖公二十二/年盡三十三年)¶
@@ -758,6 +760,7 @@
 　¶
 　¶
 　春秋公羊傳注疏卷十二¶
+#+PROPERTY: JUAN 卷十二考證
 <pb:KR1e0006_WYG_012-43a>¶
 　春秋公羊傳卷十二考證¶
 冬十有一月己巳朔宋公及楚人戰于泓宋師敗績𫝊¶
@@ -848,4 +851,3 @@
 　¶
 　¶
 　春秋公羊傳卷十二考證¶
-

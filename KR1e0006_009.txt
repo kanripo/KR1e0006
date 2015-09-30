@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋公羊傳注疏
-#+DATE: 2015-09-23 09:39:19
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:12:28.961571
+#+PROPERTY: ID KR1e0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1e0006_WYG_009-1a>¶
 欽定四庫全書¶
 　春秋公羊傳注疏卷九(起莊公二十八/年盡閔公二年)¶
@@ -542,6 +544,7 @@
 　¶
 　¶
 　春秋公羊傳注疏卷九¶
+#+PROPERTY: JUAN 卷九考證
 <pb:KR1e0006_WYG_009-31a>¶
 　春秋公羊傳卷九考證¶
 秋荆伐鄭公㑹齊人宋人邾婁人救鄭○左榖經宋人¶
@@ -632,4 +635,3 @@
 　¶
 　¶
 　春秋公羊傳卷九考證¶
-
